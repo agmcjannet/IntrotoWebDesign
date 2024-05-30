@@ -1,0 +1,21 @@
+body {
+    background: white;
+    padding: 0 24px;
+    margin: 0;
+    height: 100vh;
+    color: black;
+   }
+  h1{
+    color: #0E1232; 
+    font-family: Helvetica, sans-serif;
+  }
+  
+  h2{
+    color: #0E1232; 
+    font-family: Verdana, sans-serif;
+  }
+  
+  p {
+    color: #3E3E3E;
+    font-family: "Courier New", Monaco, serif;
+  }
